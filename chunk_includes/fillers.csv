@@ -1,0 +1,9 @@
+item,condition,sentence,sentence_audio,image
+1,good_filler,Věta: Tučňáci drží zmrzlinu.,tucnaci.mp3,tucnaci.jpg
+2,bad_filler,Věta: Sestry čtou knížky.,cteni.mp3,cteni.jpg
+3,good_filler,Věta: Sourozenci vyjeli na výlet na kolech.,kola.mp3,kola.jpg
+4,bad_filler,Věta: Holčička krmí kozy.,krmeni.mp3,krmeni.jpg
+5,good_filler,Věta: Na poli stojí dva strašáci.,strasaci.mp3,strasaci.jpg
+6,bad_filler,Věta: Rybář ulovil dvě ryby.,rybar.mp3,rybar.jpg
+7,good_filler,Věta: V lese rostou houby.,houby.mp3,houby.jpg
+8,bad_filler,Věta: Na stromě sedí dva ptáci.,tuzky.mp3,tuzky.jpg
